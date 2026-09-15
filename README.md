@@ -38,7 +38,6 @@ Right now I'm building a job application tracker from scratch — full-stack, no
 |---------|-------------|
 | [**Job Tracker**](https://github.com/rishnegi7711/job-tracker) | 🚧 Full-stack app to track job applications and interview rounds. React + TypeScript frontend, Express + Prisma + PostgreSQL backend, JWT auth — built from scratch. |
 | [**CleanDeps CLI**](https://www.npmjs.com/package/cleandeps-cli) | One command to nuke `node_modules` and reinstall. Supports npm, bun, and yarn. |
-| **Photography Portfolio** | 🚧 Work in progress |
 
 ---
 
