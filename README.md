@@ -46,6 +46,6 @@ Removes `node_modules` and reinstalls in one command. Detects npm, yarn or bun f
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/rishi-negi-a9057a207/) · rishnegi28@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rishi-negi-a9057a207/) · rishi@rishnegi.com
 
 <!-- Add portfolio link here after deploy -->
